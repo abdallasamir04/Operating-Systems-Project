@@ -4,7 +4,9 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![C#](https://img.shields.io/badge/Language-C%23-purple.svg)
 
-The **Mini-FAT File System** is a simplified implementation of the FAT (File Allocation Table) structure using **C#**. It simulates a virtual disk with **1MB storage**, supporting cluster-based data management, file allocation tracking via a FAT table, and metadata operations. This project demonstrates essential file system design concepts and was developed as part of the **Operating Systems** course at **Assiut National University**.
+The **Mini-FAT File System** is a simplified implementation of the FAT (File Allocation Table) structure using **C#**.
+It simulates a virtual disk with **1MB storage**, supporting cluster-based data management, file allocation tracking via a FAT table, and metadata operations.
+This project demonstrates essential file system design concepts and was developed as part of the **Operating Systems** course at **Assiut National University**.
 
 ---
 
@@ -48,6 +50,27 @@ The **Mini-FAT File System** is a simplified implementation of the FAT (File All
 
 ---
 
+## 📜 Commands
+
+The Mini-FAT File System supports the following commands for managing files and directories:
+
+| Command     | Description                                  | Example                     |
+|-------------|----------------------------------------------|-----------------------------|
+| `cd`        | Change directory                             | `cd k:\folder`              |
+| `dir`       | List directory contents                      | `dir k:\folder`             |
+| `copy`      | Copy files/directories                       | `copy file.txt k:\backup`   |
+| `import`    | Import files from physical disk              | `import C:\data.txt`        |
+| `export`    | Export files to physical disk                | `export data.txt D:\`       |
+| `md`        | Create a directory                           | `md new_folder`             |
+| `rd`        | Remove a directory                           | `rd old_folder`             |
+| `cls`       | Clear screen                                 | `cls`                       |
+| `help`      | Show command help                            | `help copy`                 |
+| `type`      | Display file content                         | `type file.txt`             |
+| `rename`    | Rename a file or directory                   | `rename old.txt new.txt`    |
+| `del`       | Delete a file                                | `del file.txt`              |
+
+---
+
 ## 💻 Code Highlights
 
 ### Key Methods
@@ -75,26 +98,6 @@ The **Mini-FAT File System** is a simplified implementation of the FAT (File All
 
 ---
 
-## ⚙️ Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/abdallasamir04/os-virtual-disk.git
-   cd os-virtual-disk
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-    Fork the repository.
-
-    Create a feature branch (git checkout -b feature/your-feature).
-
-    Commit changes (git commit -m 'Add feature').
-
-    Push to the branch (git push origin feature/your-feature).
-
-    Open a Pull Request.
 
 ## 🙏 Acknowledgments
 
