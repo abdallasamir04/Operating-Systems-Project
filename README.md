@@ -4,9 +4,9 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![C#](https://img.shields.io/badge/Language-C%23-purple.svg)
 
-The **Mini-FAT File System** is a simplified implementation of the FAT (File Allocation Table) structure using **C#**.
-It simulates a virtual disk with **1MB storage**, supporting cluster-based data management, file allocation tracking via a FAT table, and metadata operations.
-This project demonstrates essential file system design concepts and was developed as part of the **Operating Systems** course at **Assiut National University**.
+The **Mini-FAT File System** is a simplified implementation of the FAT (File Allocation Table) structure using **C#**.  
+It simulates a virtual disk with **1MB storage**, supporting cluster-based data management, file allocation tracking via a FAT table, and metadata operations.  
+This project demonstrates essential file system design concepts and was developed by **_Abdalla Samir_** as part of the **Operating Systems** course at **Assiut National University**.
 
 ---
 
@@ -108,15 +108,11 @@ The Mini-FAT File System supports the following commands for managing files and 
 
     
 ## 📧 Contact
+**Abdalla Samir**  
+- **Email**: [samirovic707@gmail.com](mailto:samirovic707@gmail.com)  
+- **GitHub**: [@abdallasamir04](https://github.com/abdallasamir04)  
+- **Twitter**: [@abdallasamir04](https://x.com/abdallasamir04)  
 
-Abdalla Samir
-
-    Email: samirovic707@gmail.com
-
-    GitHub: @abdallasamir04
-
-    Twitter: @abdallasamir04
-
-Faculty of Computers and Artificial Intelligence
-Assiut National University
-Operating Systems Course - Third Level
+**Faculty of Computers and Artificial Intelligence**  
+**Assiut National University**  
+**Operating Systems Course (CS321) - Third Level**
