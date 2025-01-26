@@ -1,4 +1,4 @@
-# 🖥️ Operating Systems Project: Mini-FAT File System
+# 🖥️ Operating Systems Project : Mini-FAT File System
 
 
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
