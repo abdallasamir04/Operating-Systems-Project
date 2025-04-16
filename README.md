@@ -1,4 +1,5 @@
-![Operating-Systems-Project Banner](Operating-Systems-Project/osbanner.png)
+![Operating-Systems-Project Banner](https://github.com/abdallasamir04/Operating-Systems-Project/OS/osbanner.png)
+
 
 # 🖥️ Operating Systems Project : Mini-FAT File System
 
