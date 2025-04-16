@@ -4,8 +4,8 @@
 # 🖥️ Operating Systems Project : Mini-FAT File System
 
 
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
-![C#](https://img.shields.io/badge/Language-C%23-purple.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-green.svg?style=for-the-badge&logo=github&logoColor=white)
+![C#](https://img.shields.io/badge/Language-C%23-0078d4.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 The **Mini-FAT File System** is a simplified implementation of the FAT (File Allocation Table) structure using **C#**.  
 It simulates a virtual disk with **1MB storage**, supporting cluster-based data management, file allocation tracking via a FAT table, and metadata operations.  
