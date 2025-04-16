@@ -121,7 +121,7 @@ Let's connect! Feel free to reach out or follow me on these platforms:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirovic707@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallasamir04)  
 ---
-**Abdalla Samir**  
+**Abdalla Mahmoud Samir**  
 **Faculty of Computers and Artificial Intelligence**  
 **Assiut National University**  
 **Operating Systems Course (CS321) - Third Level**
